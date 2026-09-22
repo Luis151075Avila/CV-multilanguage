@@ -1,0 +1,92 @@
+---
+title: "Curriculum Vitae"
+author: "Luis Alberto Avila Borja"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    geometry:
+      - margin=20mm
+    pdf-engine: pdflatex
+---
+
+# Persönliche Daten / Personal Information
+
+| | |
+|---|---|
+| **Adresse / Address:** | Av. 6 de Agosto s/n, Zona Yurac Yurac, Sucre, Bolivia |
+| **Telefon / Phone:** | +591 711 60321 |
+| **E-Mail:** | lobo151075@gmail.com |
+| **Staatsangehörigkeit / Nationality:** | Bolivianisch / Bolivian |
+| **Geburtsdatum / Date of Birth:** | 15. Oktober 1975 |
+
+
+# Berufsprofil / Professional Summary
+
+Senior Civil Engineer and Hydrogeologist with over 20 years of experience in hydraulic infrastructure, dam design, and large-scale water resource projects. Specialist in computational hydrological and hydraulic modeling, with a strong track record applying Python-driven automation and AI/ML tools to engineering workflows. Holds advanced academic training in hydrogeology and professional language proficiency in German, enabling direct collaboration with German-speaking clients and engineering teams.
+
+
+# Ausbildung / Education
+
+**Magister en Hidrogeología y Recursos Hídricos** *(M.Sc. in Hydrogeology and Water Resources)*
+Universidad Mayor Real y Pontificia de San Francisco Xavier, Bolivia — 2010–2013
+
+**Intensive Training in Physical Hydrogeology**
+University of Waterloo, Canada — 2009
+
+**Licenciatura en Idiomas** *(B.A. in Languages — German / English)*
+Universidad Mayor Real y Pontificia de San Francisco Xavier, Bolivia — 2001–2005
+
+**Licenciatura en Ingeniería Civil** *(B.Sc. in Civil Engineering)*
+Universidad Mayor Real y Pontificia de San Francisco Xavier, Bolivia — 1994–1999
+
+
+# Berufserfahrung / Professional Experience
+
+**Hydrological Specialist** | D y D Asociados, Bolivia
+*2024 – 2025*
+
+- Design and technical supervision of urban and rural drainage systems.
+- Hydraulic dimensioning of infrastructure using computational models (HEC-RAS, HEC-HMS).
+- Coordination with public authorities and preparation of technical reports.
+
+
+**Dam Engineering Consultant** | DESMA SRL, Bolivia
+*2023 – 2025*
+
+- Lead engineer for feasibility studies and detailed design of the Challhuani, Pinaya, and Cayimbaya dam projects.
+- Hydrological analysis, flood routing, and dam safety assessments.
+- Oversight of geotechnical surveys and hydraulic structure design.
+
+
+**Hydrosanitary Specialist** | ARVA, Bolivia
+*2019 – 2021*
+
+- Technical design of water supply and sanitation systems for the expansion of Jorge Henrich Arauz Airport, Trinidad.
+- Coordination of civil works and compliance with aviation infrastructure standards.
+
+
+# Technische Kompetenzen / Technical Skills
+
+**Hydraulic & Water Resources Engineering**
+HEC-RAS, HEC-HMS, MODFLOW, FEFLOW; dam safety, flood hydrology, irrigation design, groundwater modeling.
+
+**Data Science & Programming**
+Python (NumPy, Pandas, Matplotlib, SciPy); AI/ML integration for engineering automation; GIS (QGIS, ArcGIS).
+
+**Software & Tools**
+AutoCAD Civil 3D, SAP2000, MS Office Suite, LaTeX/Quarto.
+
+
+# Sprachkenntnisse / Language Skills
+
+| Sprache / Language | Niveau / Level |
+|---|---|
+| Spanisch / Spanish | Muttersprache / Native |
+| Deutsch / German | Fachkundige Sprachkenntnisse / Professional Proficiency (B2) |
+| Englisch / English | Fließend / Fluent (C1) |
+
+
+# Referenzen / References
+
+Available upon request / Auf Anfrage erhältlich.
